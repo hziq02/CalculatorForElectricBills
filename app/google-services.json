@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "753313924434",
+    "firebase_url": "https://calculator-for-electric-bills-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "calculator-for-electric-bills",
+    "storage_bucket": "calculator-for-electric-bills.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753313924434:android:c137628456f5cdae91268b",
+        "android_client_info": {
+          "package_name": "com.example.calculatorforelectricbills"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQjra3i0C7flHtGPk86AnRAvOMe9MiRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
